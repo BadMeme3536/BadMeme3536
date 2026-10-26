@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BadMeme3536
-- 👀 I’m interested in Cyber-Physical Systems, Data Science, Academic Research
+- 👀 I’m interested in Cyber-Physical Systems, HCI, and academic research
 - 🌱 I’m currently learning C#, Unity, Python
 - 💞️ I’m looking to collaborate on papers, journals, etc.
-- 📫 How to reach me chelliott@augusta.edu
+- 📫 How to reach me: chelliott@augusta.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
